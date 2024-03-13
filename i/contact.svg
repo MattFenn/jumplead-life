@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="126px" height="255px" viewBox="0 0 126 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M63,0 C97.7939392,-6.39154295e-15 126,28.2060608 126,63 L126,254.575 L0,254.575 L0,63 C-4.26102863e-15,28.2060608 28.2060608,6.39154295e-15 63,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Jumplead" transform="translate(-766.000000, -5254.000000)">
+            <g id="Group-9" transform="translate(766.000000, 5254.000000)">
+                <g id="Group-8">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#3A50F5" xlink:href="#path-1"></use>
+                    <path d="M120.503356,25.075 C155.297295,25.075 183.503356,53.2810608 183.503356,88.075 L183.503356,254.575 L57.5033557,254.575 L57.5033557,88.075 C57.5033557,53.2810608 85.7094165,25.075 120.503356,25.075 Z" id="Rectangle" fill="#9E2720" mask="url(#mask-2)"></path>
+                </g>
+                <circle id="Oval" fill="#D8D8D8" cx="75" cy="158" r="6"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
