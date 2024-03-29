@@ -101,7 +101,7 @@
     "tailwindcss": "^3.4.3"
   },
   "scripts": {
-    "build-css": "tailwindcss build src/input.css -o public/styles.css"
+    "build-css": "tailwindcss build src/input.css -o docs/styles.css"
   },
   "repository": {
     "type": "git",
